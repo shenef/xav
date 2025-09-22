@@ -76,6 +76,8 @@ Download the binary specific to your arch from the Releases page and extract the
 # Usage
 Usage is very simple. Can be seen from the tool's help output:
 
+<img width="1484" height="660" alt="a" src="https://github.com/user-attachments/assets/adffe1cc-0598-4b6e-b5ea-13cb8c7ddb4b" />
+
 If the user does not provide a worker value, the tool selects generic values for `--worker` and `--lp` and applies `--low-mem` too.
 If OUTPUT is not given, it appens `_av1` to the input name: `input_av1.mkv`
 If `-s` is not given, it creates `scd_inputname.txt`.
@@ -93,6 +95,9 @@ Building this tool requires you to have static libraries in your system for the 
 If you use the script, you only need C, C++, libmath static libraries installed.
 
 # Video Showcase
+
+https://github.com/user-attachments/assets/228a4f22-b687-449d-9eb6-d0d2e7630e83
+
 
 # Software Used by This Project
 - [SVT-AV1](https://gitlab.com/AOMediaCodec/SVT-AV1) / [SVT-AV1-HDR](https://github.com/juliobbv-p/svt-av1-hdr) / [SVT-AV1-PSYEX](https://github.com/BlueSwordM/svt-av1-psyex)
